@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 sandbox.py
-.vscode/
+.vscode/*
